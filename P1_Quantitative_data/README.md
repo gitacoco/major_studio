@@ -1,7 +1,8 @@
 # Project 1: Visualize Quantitative Data
 ## Project Title
 **Last Faces of Extinct Birds in North America**
-—— Scrutinizing the lifespans of extinct bird species 
+*—— Scrutinizing the lifespans of extinct bird species*
+You can access the [video demo here](https://drive.google.com/file/d/10he8j2Y-nkIiiT9rWQodgpLHfQhFkddu/view?usp=sharing) and the [interactive prototype here](https://www.figma.com/proto/Ew2tDcc3rdeNUJPzOaTEnr/Major-Studio-1-Project-1?node-id=1%3A2&viewport=798%2C473%2C0.10880535840988159&scaling=scale-down-width).
 
 ## Initial motivation
 1. To digitize the bird specimen collections in museum, bringing them to the stage. And taking advantage of the web technology to enable more people to see the appearance of those extinct birds.
@@ -17,9 +18,6 @@ So questions:
 ### Ideation Alternatives
 
 ### Design Iteration
-
-### Video Demo and Interactive Prototype
-You can access the [video demo here](https://drive.google.com/file/d/10he8j2Y-nkIiiT9rWQodgpLHfQhFkddu/view?usp=sharing) and the [interactive prototype here](https://www.figma.com/proto/Ew2tDcc3rdeNUJPzOaTEnr/Major-Studio-1-Project-1?node-id=1%3A2&viewport=798%2C473%2C0.10880535840988159&scaling=scale-down-width).
 
 ## Data sources
 ### The [Searchable Collection Database](https://collections.nmnh.si.edu/search/birds/) of The Division of Birds, National Museum of Natural History, Smithsonian Institute
