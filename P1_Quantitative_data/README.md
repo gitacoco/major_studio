@@ -36,7 +36,7 @@ For the first version, I reconstructed my sketch 1 digitally:
 **Sep 23 Prototype 2**
 ![Image of dataset](./mockup2.png)
 
-Based on Prototype 1, I added a collapsed view for the landing page, which enable people to get macro understanding of extinct avian species. For example, people could sort them by the extinct time, the first sighting time, the initials or more complex taxonomy.
+Based on Prototype 1, I added a collapsed view for the landing page, which enable people to get macro understanding of extinct avian species, to perceive the information through another visual representation and interactivity. Ideally, people could sort them by the extinct time, the first sighting time, the initials or more complex taxonomy.
 
 **Oct 1 Prototype 3**
 ![Image of dataset](./mockup3.png)
