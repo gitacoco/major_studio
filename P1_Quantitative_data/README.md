@@ -9,6 +9,7 @@ You can access the [video demo here](https://drive.google.com/file/d/10he8j2Y-nk
 2. To draw people's attention and to evoke responses on the issue of birds’ habitat destruction caused by human activities.
 
 ## Questions
+![Image of museum_display](./museum_display.jpg)
 Museums always display animal specimen collections, such as bird specimens, on the wall in a matrix-like way, no matter far at National Museums of Kenya or nearly at the National Museum of Natural History of Smithsonian. In on-site settings, those layouts give people a special sense of rhythm and beauty. However, if we're talking about collection digitization, we may be able to do something more. Taking pictures and make them accessible online is still a replication of the traditional on-site exhibition, which has not taken advantage of the digital interfaces.
 So questions:
 1. How to incorporate multiple dimensions of Information on the basis of displaying specimens.
