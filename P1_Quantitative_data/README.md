@@ -26,4 +26,4 @@ The Division of Birds houses and maintains the third largest bird collection in 
 [Category: Extinct birds of North America, Wikipedia](Category:Extinct_birds_of_North_America)
 
 ## Next steps or Future work
-1. To make the specimens more vivid. 
+1. To make the virtual specimens more vivid, which means the experience of seeing the specimens could be more lifelike. This issue could be solved by 3D display, which is a mature web technology. However, I think this is relying on the potential future work of Smithsonian.
