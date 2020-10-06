@@ -41,6 +41,9 @@ Based on Prototype 1, I added a collapsed view for the landing page, which enabl
 **Oct 1 Prototype 3**
 ![Image of dataset](./mockup3.png)
 
+I finalize my idea in prototype 3. I perfected the whole user flow and optimized details of touch points. 
+Again, you can access the [video demo here](https://drive.google.com/file/d/10he8j2Y-nkIiiT9rWQodgpLHfQhFkddu/view?usp=sharing) and the [interactive prototype here](https://www.figma.com/proto/Ew2tDcc3rdeNUJPzOaTEnr/Major-Studio-1-Project-1?node-id=1%3A2&viewport=798%2C473%2C0.10880535840988159&scaling=scale-down-width).
+
 ## Data sources
 ### The [Searchable Collection Database](https://collections.nmnh.si.edu/search/birds/) of The Division of Birds, National Museum of Natural History, Smithsonian Institute
 The Division of Birds houses and maintains the third largest bird collection in the world with over 640,000 specimens. Its National Collection has representatives of about 85% of the approximately 10,000 known species in the world's avifauna.
