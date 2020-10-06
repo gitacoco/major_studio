@@ -7,8 +7,8 @@
 ## Process
 ### Design Alternatives
 ### Design Iteration
-### Data sources
+### Video Demo and Interactive Prototype
 
-## Video Demo and Interactive Prototype
+## Data sources
 
 ## Next steps
