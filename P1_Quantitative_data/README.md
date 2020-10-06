@@ -32,8 +32,8 @@ The Division of Birds houses and maintains the third largest bird collection in 
 On the database website, there are a few Quick Browse Searches, where we can see [Selected specimens of extinct North American birds](https://collections.nmnh.si.edu/search/birds/?v=l1). And we can easily export selected results as SVG (Shown as above). However, in this selected dataset, there are only five species. According to The IUCN Red List, there are 159 extinct (EX) species and 19 possibly extinct bird subspecies or status unknown. So it's necessary to introduce external datasets, the list of extinct bird. And then we could use the bird name in the list to query in NMNH database.
 
 ### External Datasets: List of extinct bird
-[Category: Extinct birds of North America, Wikipedia](Category:Extinct_birds_of_North_America)
-[List of extinct bird species since 1500](https://en.wikipedia.org/wiki/List_of_extinct_bird_species_since_1500#cite_ref-4)
+[List of extinct bird species since 1500](https://en.wikipedia.org/wiki/List_of_extinct_bird_species_since_1500#cite_ref-4)    
+[Category: Extinct birds of North America, Wikipedia](https://en.wikipedia.org/wiki/Category:Extinct_birds_of_North_America)
 
 ## Next steps or Future work
 1. **Topic Extension** This project aims to empathize the extinct birds, but what's gone is gone, we need to pay attention to those still exist, to protect them. So the extension topic of my project would be Conservation Status. The [International Union for Conservation of Nature (IUCN)](https://en.wikipedia.org/wiki/International_Union_for_Conservation_of_Nature) lists avian species in different Conservation Status. As of December 2019, IUCN lists 225 critically endangered avian species, 461 endangered avian species, 800 vulnerable avian species. I think it's meaningful to visualize the [Conservation Status](https://en.wikipedia.org/wiki/Conservation_status) of current avian species to draw people's attention and to evoke responses. This idea has already been depicted in Ideation 2.  
