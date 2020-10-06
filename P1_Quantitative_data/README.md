@@ -23,6 +23,8 @@ So questions:
 **The second one** is a unit visualization in which every unit(data point) represents one species of birds. All points are color encoded and could be filtered by conservation status and could be re-arranged in different views, for example, be transferred into a bar chart or a relationship network, to observe the data in various representations.
 
 ### Design Iteration
+* Sep 22 Prototype 1
+![Image of dataset](./mockup1.png)
 
 ## Data sources
 ### The [Searchable Collection Database](https://collections.nmnh.si.edu/search/birds/) of The Division of Birds, National Museum of Natural History, Smithsonian Institute
