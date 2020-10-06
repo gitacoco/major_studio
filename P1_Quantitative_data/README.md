@@ -22,6 +22,8 @@ So questions:
 
 **The second one** is a unit visualization in which every unit(data point) represents one species of birds. All points are color encoded and could be filtered by conservation status and could be re-arranged in different views, for example, be transferred into a bar chart or a relationship network, to observe the data in various representations.
 
+For Project 1, I tentatively chose Idea 1, because it's not only more workable at this time, but it semantically represents "the past" that could form a progressive relationship with idea 2, which represents "the current" logically.
+
 ### Design Iteration
 **Sep 22 Prototype 1**
 ![Image of dataset](./mockup1.png)
