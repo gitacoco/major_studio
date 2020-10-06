@@ -57,4 +57,6 @@ On the database website, there are a few Quick Browse Searches, where we can see
 > * Data deficient (DD) – Not enough data to make an assessment of its risk of extinction
 > * Not evaluated (NE) – Has not yet been evaluated against the criteria.
 
-2. **Showcase Effects and Interaction Design** To make the virtual specimens more vivid, which means the experience of seeing the specimens could be more lifelike. This issue could be solved by 3D display, which is a mature web technology. However, I think this is relying on the potential future work of Smithsonian.
+2. **To map the data precisely by coding**
+
+3. **Showcase Effects and Interaction Design** To make the virtual specimens more vivid, which means the experience of seeing the specimens could be more lifelike. This issue could be solved by 3D display, which is a mature web technology. However, I think this is relying on the potential future work of Smithsonian.
