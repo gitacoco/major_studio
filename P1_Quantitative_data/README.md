@@ -18,7 +18,7 @@ So questions:
 ## Process
 ### Ideation Alternatives
 ![Image of Ideation](./sketches.jpg)
-The first idea is to make an array, an on-site similar way, of timelines to show the extinct birds. People could know the first sighting time and extinct time of each bird and explore the specimens information, including collectors, images and collected years, collected by the Bird Division in National Museum of Natural History, Smithsonian.
+The first idea is to make an array, an on-site similar way, of timelines to show the extinct birds. People could know the first sighting time and extinct time of each bird and explore the specimens information, including collectors, images and collected years, collected by the Bird Division in National Museum of Natural History, Smithsonian.  
 The second one is a unit visualization in which every unit(data point) represents one species of birds. All points are color encoded and could be filtered by conservation status and could be re-arranged in different views, for example, be transferred into a bar chart or a relationship network, to observe the data in various perspectives,
 
 ### Design Iteration
