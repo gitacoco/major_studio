@@ -31,7 +31,7 @@ For Project 1, I tentatively chose Idea 1, because it's not only more workable a
 For the first version, I just reconstruct my sketch 1 digitally: 
 1. A landing page with an array of timelines. On each timelines, I designed three types of glyphs, which respectively represents the First Sighting Time by Human, Specimens Collected by NMNH, and the Extinct Year or the Last Known Sighting Time.
 
-2. Secondary-level pages that could be accessed from the concentric circles-like glyph.
+2. Secondary-level pages that could be accessed from the concentric circles-like glyph. The transition from the landing page to the secondary-level page would include smoothly animations of the bird avatar, timeline rescaling and globe movement(spin, zoom in, focus change).
 
 **Sep 23 Prototype 2**
 ![Image of dataset](./mockup2.png)
