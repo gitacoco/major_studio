@@ -36,13 +36,14 @@ For the first version, I reconstructed my sketch 1 digitally:
 **Sep 23 Prototype 2**
 ![Image of dataset](./mockup2.png)
 
-Based on Prototype 1, I added a collapsed view for the landing page, which enable people to get macro understanding of extinct avian species, to perceive the information through another visual representation and interactivity. Ideally, people could sort them by the extinct time, the first sighting time, the initials or more complex taxonomy.
+Based on Prototype 1, I added a collapsed view, on the principle of small multiples, for the landing page, which enable people to get macro understanding of extinct avian species, to perceive the information through another visual representation and interactivity. Ideally, people could sort them by the extinct time, the first sighting time, the initials or more complex taxonomy.
 
 **Oct 1 Prototype 3**
 ![Image of dataset](./mockup3.png)
 
-I finalize my idea in prototype 3. I perfected the whole user flow and optimized details of touch points. 
+I finalized my idea in prototype 3. I perfected the whole user flow and optimized details of touch points. 
 Again, you can access the [video demo here](https://drive.google.com/file/d/10he8j2Y-nkIiiT9rWQodgpLHfQhFkddu/view?usp=sharing) and the [interactive prototype here](https://www.figma.com/proto/Ew2tDcc3rdeNUJPzOaTEnr/Major-Studio-1-Project-1?node-id=1%3A2&viewport=798%2C473%2C0.10880535840988159&scaling=scale-down-width).
+![Image of dataset](./mockup3-1.png)
 
 ## Data sources
 ### The [Searchable Collection Database](https://collections.nmnh.si.edu/search/birds/) of The Division of Birds, National Museum of Natural History, Smithsonian Institute
