@@ -1,7 +1,7 @@
 # Project 1: Visualize Quantitative Data
 
 ## Initial motivation
-1. To digitize the bird specimen collections in museum, bringing to the stage. And taking advantage of the web technology to enable more people to see the appearance of those extinct birds.
+1. To digitize the bird specimen collections in museum, bringing them to the stage. And taking advantage of the web technology to enable more people to see the appearance of those extinct birds.
 2. To draw people's attention and to evoke responses on the issue of birds’ habitat destruction caused by human activities.
 
 ## Questions
