@@ -27,6 +27,12 @@ For Project 1, I tentatively chose Idea 1, because it's not only more workable a
 ### Design Iteration
 **Sep 22 Prototype 1**
 ![Image of dataset](./mockup1.png)
+
+For the first version, I just reconstruct my sketch 1 digitally: 
+1. A landing page with an array of timelines. On each timelines, I designed three types of glyphs, which respectively represents the First Sighting Time by Human, Specimens Collected by NMNH, and the Extinct Year or the Last Known Sighting Time.
+
+2. Secondary-level pages that could be accessed from the concentric circles-like glyph.
+
 **Sep 23 Prototype 2**
 ![Image of dataset](./mockup2.png)
 **Oct 1 Prototype 3**
@@ -57,6 +63,6 @@ On the database website, there are a few Quick Browse Searches, where we can see
 > * Data deficient (DD) – Not enough data to make an assessment of its risk of extinction
 > * Not evaluated (NE) – Has not yet been evaluated against the criteria.
 
-2. **To map the data precisely by coding**
+2. **To map the data precisely by coding.**
 
 3. **Showcase Effects and Interaction Design** To make the virtual specimens more vivid, which means the experience of seeing the specimens could be more lifelike. This issue could be solved by 3D display, which is a mature web technology. However, I think this is relying on the potential future work of Smithsonian.
