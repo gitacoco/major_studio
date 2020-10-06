@@ -33,10 +33,8 @@ The Division of Birds houses and maintains the third largest bird collection in 
 1. **Topic Extension** This project aims to empathize the extinct birds, but what's gone is gone, we need to pay attention to those still exist, to protect them. So the extension topic of my project would be Conservation Status. The International Union for Conservation of Nature (IUCN) lists avian species in different Conservation Status. As of December 2019, IUCN lists 225 critically endangered avian species, 461 endangered avian species, 800 vulnerable avian species. I think it's meaningful to visualize the Conservation Status of current avian species to draw people's attention and to evoke responses. This idea has already been depicted in Ideation 2.
 
 > The IUCN Red List of Threatened Species is the best known worldwide conservation status listing and ranking system. Species are classified by the IUCN Red List into nine groups set through criteria such as rate of decline, population size, area of geographic distribution, and degree of population and distribution fragmentation
-
-> Also included are species that have gone extinct since 1500 CE. When discussing the IUCN Red List, the official term "threatened" is a grouping of three categories: critically endangered, endangered, and vulnerable.
-
-> Extinct (EX) – No known living individuals
+Also included are species that have gone extinct since 1500 CE. When discussing the IUCN Red List, the official term "threatened" is a grouping of three categories: critically endangered, endangered, and vulnerable.
+Extinct (EX) – No known living individuals
 Extinct in the wild (EW) – Known only to survive in captivity, or as a naturalized population outside its historic range
 Critically endangered (CR) – Extremely high risk of extinction in the wild
 Endangered (EN) – High risk of extinction in the wild
