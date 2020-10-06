@@ -43,5 +43,5 @@ The Division of Birds houses and maintains the third largest bird collection in 
 * Data deficient (DD) – Not enough data to make an assessment of its risk of extinction
 * Not evaluated (NE) – Has not yet been evaluated against the criteria.
 
-I think it's meaningful to visualize the Conservation Status of current avian species to draw people's attention and to evoke responses. This idea has already been depicted in Ideation 2.
+I think it's meaningful to visualize the Conservation Status of current avian species to draw people's attention and to evoke responses. This idea has already been depicted in Ideation 2.  
 2. **Showcase Effects and Interaction Design** To make the virtual specimens more vivid, which means the experience of seeing the specimens could be more lifelike. This issue could be solved by 3D display, which is a mature web technology. However, I think this is relying on the potential future work of Smithsonian.
