@@ -26,8 +26,9 @@ The second one is a unit visualization in which every unit(data point) represent
 ## Data sources
 ### The [Searchable Collection Database](https://collections.nmnh.si.edu/search/birds/) of The Division of Birds, National Museum of Natural History, Smithsonian Institute
 The Division of Birds houses and maintains the third largest bird collection in the world with over 640,000 specimens. Its National Collection has representatives of about 85% of the approximately 10,000 known species in the world's avifauna.
-![Image of dataset](./dataset.jpg)
-On the database website, there are a few Quick Browse Searches, where we can see [Selected specimens of extinct North American birds](https://collections.nmnh.si.edu/search/birds/?v=l1). And we can easily export selected results as SVG. However, in this selected dataset, there are only five species. According to The IUCN Red List, there are 159 extinct (EX) species and 19 possibly extinct bird subspecies or status unknown. So it's necessary to introduce external datasets.
+
+![Image of dataset](./dataset.png)
+On the database website, there are a few Quick Browse Searches, where we can see [Selected specimens of extinct North American birds](https://collections.nmnh.si.edu/search/birds/?v=l1). And we can easily export selected results as SVG (Shown as above). However, in this selected dataset, there are only five species. According to The IUCN Red List, there are 159 extinct (EX) species and 19 possibly extinct bird subspecies or status unknown. So it's necessary to introduce external datasets.
 
 ### The Birds Catalog in Wikipedia
 [Category: Extinct birds of North America, Wikipedia](Category:Extinct_birds_of_North_America)
