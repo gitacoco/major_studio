@@ -1,4 +1,4 @@
-# Exercise 2: Mapping Quantities, Categories, and Summarized Data
+# Project 1: Visualize Quantitative Data
 
 For this second exercise, we'll be examining a simple time-series dataset: the history of nuclear testing by the eight (declared) nuclear nations. In the first phase of this project we will consider only the total number of test explosions across three dimensions:
 
