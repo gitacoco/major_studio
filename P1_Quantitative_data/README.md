@@ -34,14 +34,14 @@ The Division of Birds houses and maintains the third largest bird collection in 
 
 > The IUCN Red List of Threatened Species is the best known worldwide conservation status listing and ranking system. Species are classified by the IUCN Red List into nine groups set through criteria such as rate of decline, population size, area of geographic distribution, and degree of population and distribution fragmentation. Also included are species that have gone extinct since 1500 CE. When discussing the IUCN Red List, the official term "threatened" is a grouping of three categories: critically endangered, endangered, and vulnerable.
 
-> Extinct (EX) – No known living individuals
-> Extinct in the wild (EW) – Known only to survive in captivity, or as a naturalized population outside its historic range
-> Critically endangered (CR) – Extremely high risk of extinction in the wild
-> Endangered (EN) – High risk of extinction in the wild
-> Vulnerable (VU) – High risk of endangerment in the wild
-> Near threatened (NT) – Likely to become endangered in the near future
-> Least concern (LC) – Lowest risk; does not qualify for a higher risk category. Widespread and abundant taxa are included in this category.
-> Data deficient (DD) – Not enough data to make an assessment of its risk of extinction
-> Not evaluated (NE) – Has not yet been evaluated against the criteria.
+* Extinct (EX) – No known living individuals
+* Extinct in the wild (EW) – Known only to survive in captivity, or as a naturalized population outside its historic range
+* Critically endangered (CR) – Extremely high risk of extinction in the wild
+* Endangered (EN) – High risk of extinction in the wild
+* Vulnerable (VU) – High risk of endangerment in the wild
+* Near threatened (NT) – Likely to become endangered in the near future
+* Least concern (LC) – Lowest risk; does not qualify for a higher risk category. Widespread and abundant taxa are included in this category.
+* Data deficient (DD) – Not enough data to make an assessment of its risk of extinction
+* Not evaluated (NE) – Has not yet been evaluated against the criteria.
 
 2. **Showcase Effects and Interaction Design** To make the virtual specimens more vivid, which means the experience of seeing the specimens could be more lifelike. This issue could be solved by 3D display, which is a mature web technology. However, I think this is relying on the potential future work of Smithsonian.
