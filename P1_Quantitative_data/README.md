@@ -16,7 +16,7 @@ So questions:
 
 ## Process
 ### Ideation Alternatives
-![Image of Ideation](https://drive.google.com/u/1/uc?id=1Irnlcc7OiOX2ipy4KsIdZmHxnHSkfwjr&export=download)
+![Image of Ideation](./sketch1&2.jpg)
 ### Design Iteration
 
 ## Data sources
