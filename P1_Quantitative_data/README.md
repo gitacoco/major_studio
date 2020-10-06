@@ -1,5 +1,7 @@
 # Project 1: Visualize Quantitative Data
-# Project Title: Last Faces of Extinct Birds in North America —— Scrutinizing the lifespans of extinct bird species 
+## Project Title
+**Last Faces of Extinct Birds in North America**
+—— Scrutinizing the lifespans of extinct bird species 
 
 ## Initial motivation
 1. To digitize the bird specimen collections in museum, bringing them to the stage. And taking advantage of the web technology to enable more people to see the appearance of those extinct birds.
