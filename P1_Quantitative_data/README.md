@@ -18,8 +18,9 @@ So questions:
 ## Process
 ### Ideation Alternatives
 ![Image of Ideation](./sketches.jpg)
-The first idea is to make an array, an on-site similar way, of timelines to show the extinct birds. People could know the first sighting time and extinct time of each bird and explore the specimens information, including collectors, images and collected years, collected by the Bird Division in National Museum of Natural History, Smithsonian.  
-The second one is a unit visualization in which every unit(data point) represents one species of birds. All points are color encoded and could be filtered by conservation status and could be re-arranged in different views, for example, be transferred into a bar chart or a relationship network, to observe the data in various representations.
+**The first idea** is to make an array, an on-site similar way, of timelines to show the extinct birds. People could know the first sighting time and extinct time of each bird and explore the specimens information, including collectors, images and collected years, collected by the Bird Division in National Museum of Natural History, Smithsonian.  
+
+**The second one** is a unit visualization in which every unit(data point) represents one species of birds. All points are color encoded and could be filtered by conservation status and could be re-arranged in different views, for example, be transferred into a bar chart or a relationship network, to observe the data in various representations.
 
 ### Design Iteration
 
@@ -28,9 +29,9 @@ The second one is a unit visualization in which every unit(data point) represent
 The Division of Birds houses and maintains the third largest bird collection in the world with over 640,000 specimens. Its National Collection has representatives of about 85% of the approximately 10,000 known species in the world's avifauna.
 
 ![Image of dataset](./dataset.png)
-On the database website, there are a few Quick Browse Searches, where we can see [Selected specimens of extinct North American birds](https://collections.nmnh.si.edu/search/birds/?v=l1). And we can easily export selected results as SVG (Shown as above). However, in this selected dataset, there are only five species. According to The IUCN Red List, there are 159 extinct (EX) species and 19 possibly extinct bird subspecies or status unknown. So it's necessary to introduce external datasets.
+On the database website, there are a few Quick Browse Searches, where we can see [Selected specimens of extinct North American birds](https://collections.nmnh.si.edu/search/birds/?v=l1). And we can easily export selected results as SVG (Shown as above). However, in this selected dataset, there are only five species. According to The IUCN Red List, there are 159 extinct (EX) species and 19 possibly extinct bird subspecies or status unknown. So it's necessary to introduce external datasets, the list of extinct bird. And then we could use the bird name in the list to query in NMNH database.
 
-### The Birds Catalog in Wikipedia
+### External Datasets: List of extinct bird
 [Category: Extinct birds of North America, Wikipedia](Category:Extinct_birds_of_North_America)
 [List of extinct bird species since 1500](https://en.wikipedia.org/wiki/List_of_extinct_bird_species_since_1500#cite_ref-4)
 
