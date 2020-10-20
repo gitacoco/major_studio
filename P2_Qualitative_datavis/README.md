@@ -8,7 +8,7 @@ Generally, people are much more familiar with the appearance of a bird than its 
 2. how could we involve people in a voyage of exploration and discovery, so that they can DIY to make their own take-away experience.
 
 ## Process
-### 1. Ideation
+### Ideation
 
 **Oct 13 Sketch**
 
@@ -19,13 +19,15 @@ In this project, I am going to bring the voices of the threatened birds as well 
 
 The data visualization and sonification will meet here for people to generate their **data experience**.
 
-### 2. Data Preparation
+### Data Preparation
 1. Databases and API
 
 1.1 [The IUCN Red List](https://www.iucnredlist.org)
 
 The IUCN Red List of Threatened Species is the best known worldwide conservation status listing and ranking system. We could output the data from their advanced search by filtering the **Taxonomy** (Animalia *Kingdom*, Chordata *Phylum*, Aves *Class*) and **Red List Category(conservation status)**. Here I tentatively choose three categories of EX, EW and CR.
+
 ![RedList](./img/redlist.png)
+
 Also，the Red List provides API query. I have applied their TOKEN, and my request still under review. 
 
 ```Javascript
@@ -69,10 +71,10 @@ www.xeno-canto.org is a website for sharing recordings of sounds of wild birds f
 2. Selection of Birds
 
 
-### 3. Design Iteration
+### Design Iteration
 **Oct 20 Prototype**
 
-### 4. Code Implementation
+### Code Implementation
 
 ## Reference
 1. [How Bird Classification Works](http://birding-world.com/bird-classification-works/)
