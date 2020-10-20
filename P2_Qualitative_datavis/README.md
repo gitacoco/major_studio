@@ -74,7 +74,7 @@ www.xeno-canto.org is a website for sharing recordings of sounds of wild birds f
 ### Design Iteration
 **Oct 20 Prototype**
 
-![[Sketch](./img/Player.jpeg)](https://www.youtube.com/watch?v=pr4N0qeDqgc)
+[![Prototype](./img/Player.jpeg)](https://www.youtube.com/watch?v=pr4N0qeDqgc)
 
 ### Code Implementation
 
