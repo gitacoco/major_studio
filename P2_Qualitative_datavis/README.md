@@ -1,0 +1,74 @@
+# Project 2: Visualize Quantitative Data
+## A Symphony Beyond Reach: the Songs of the Birds on the Verge of Extinction
+
+### Question
+Generally, people are much more familiar with the appearance of a bird than its voice. Besides showing the pictures of a bird, we could do something more to enable people to have multilevel understandings of birds or avian species, especially those who are threatened, to raise awareness of the plight of species and the larger environmental issues surrounding them. So my questions here are:
+
+1. how could we bring the voice of a bird into the stage.
+2. how could we involve people in a voyage of exploration and discovery, so that they can DIY to make their own take-away experience.
+
+### Process
+#### Ideation
+**Oct 13 Sketch**
+![Sketch](./img/sketch.jpg)
+This is a continuation of [project 1](https://github.com/gitacoco/major_studio_1/tree/master/P1_Quantitative_datavis) that brings appearances of extinct birds for people. 
+
+In this project, I am going to bring the voices of the threatened birds as well as few extinct ones' (I am lucky to find some precious songs of the birds extinct in recent years). When we think of multiple pictures we may combine them in canvas, like [Collage Art](https://en.wikipedia.org/wiki/Collage). And normally, people appreciate a painting by watching rather than listening since there is no sound. But if we associate each bird's picture with its songs, we enable people to make up a whole picture with bird voices and make it as a concerto to be heard.
+
+The data visualization and sonification will meet here for people to generate their **data experience**.
+
+#### Data Preparation
+1. Databases and API
+1.1 [The IUCN Red List](https://www.iucnredlist.org)
+The IUCN Red List of Threatened Species is the best known worldwide conservation status listing and ranking system. We could output the data from their advanced search by filtering the **Taxonomy** (Animalia *Kingdom*, Chordata *Phylum*, Aves *Class*) and **Red List Category(conservation status)**. Here I tentatively choose three categories of EX, EW and CR.
+
+Also，the Red List provides API query. I have applied their TOKEN, and my request still under review. 
+
+```Javascript
+//To get a list of species by category:
+/api/v3/species/category/:category?token='YOUR TOKEN'
+//Example: All VU (vulnerable) listed species
+{
+  "count": 14564,
+  "category": "vu",
+  "result": 
+  [
+    {
+      "taxonid": 36563,
+      "scientific_name": "Abarema abbottii",
+      "subspecies": null,
+      "rank": null,
+      "subpopulation": null
+    },
+    …
+  ]
+}
+
+```
+
+1.2 [xeno-canto, Sharing bird sounds from around the world](https://www.xeno-canto.org/)
+www.xeno-canto.org is a website for sharing recordings of sounds of wild birds from all across the world. Xeno-canto has plentiful voice recordings of birds. We could query it by Scientific name or Common name of a bird and get the response of recodings and their sono in JSON format, which could be got from The IUCN Red List's API.
+```JS
+//An example of recording object(excerpts)
+ {
+    "gen": "Troglodytes", //the generic name of the species
+    "en": "Eurasian Wren", //the English name of the species
+    "rec": "\u00c9tienne Leroy", //the name of the recordist
+    "type": "song", //the sound type of the recording (e.g. 'call', 'song', etc)
+    "file": "\/\/www.xeno-canto.org\/477551\/download", //the URL to the audio file
+    "sono": {
+        "small": "\/\/www.xeno-canto.org\/sounds\/uploaded\/ZWAQHOJFLZ\/ffts\/XC477551-small.png",
+    }, //an object with the urls to the sonograms
+```
+
+2. Selection of Birds
+
+
+
+#### Design Iteration
+**Oct 20 Prototype**
+
+#### Code Implementation
+
+### Reference
+1. [How Bird Classification Works](http://birding-world.com/bird-classification-works/)
