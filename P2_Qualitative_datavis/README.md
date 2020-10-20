@@ -1,13 +1,13 @@
 # Project 2: Visualize Quantitative Data
-## A Symphony Beyond Reach: the Songs of the Birds on the Verge of Extinction
+## A Symphony Beyond Reach: the Bird Swansongs
 
-### Question
+## Question
 Generally, people are much more familiar with the appearance of a bird than its voice. Besides showing the pictures of a bird, we could do something more to enable people to have multilevel understandings of birds or avian species, especially those who are threatened, to raise awareness of the plight of species and the larger environmental issues surrounding them. So my questions here are:
 
 1. how could we bring the voice of a bird into the stage.
 2. how could we involve people in a voyage of exploration and discovery, so that they can DIY to make their own take-away experience.
 
-### Process
+## Process
 ### 1. Ideation
 
 **Oct 13 Sketch**
@@ -74,5 +74,5 @@ www.xeno-canto.org is a website for sharing recordings of sounds of wild birds f
 
 ### 4. Code Implementation
 
-### Reference
+## Reference
 1. [How Bird Classification Works](http://birding-world.com/bird-classification-works/)
