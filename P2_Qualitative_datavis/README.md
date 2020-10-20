@@ -28,7 +28,7 @@ The IUCN Red List of Threatened Species is the best known worldwide conservation
 
 ![RedList](./img/redlist.png)
 
-Also，the Red List provides API query. I have applied their TOKEN, and my request is still under review. 
+Also，the Red List provides[API query](https://apiv3.iucnredlist.org/api/v3/docs#species-category). I have applied their TOKEN, and my request is still under review. 
 
 ```Javascript
 //To get a list of species by category:
@@ -54,7 +54,7 @@ Also，the Red List provides API query. I have applied their TOKEN, and my reque
 
 1.2 [xeno-canto, Sharing bird sounds from around the world](https://www.xeno-canto.org/)
 
-www.xeno-canto.org is a website for sharing recordings of sounds of wild birds from all across the world. Xeno-canto has plentiful voice recordings of birds. We could query it by Scientific name or Common name of a bird and get the response of recodings and their sono in JSON format, which could be got from The IUCN Red List's API.
+www.xeno-canto.org is a website for sharing recordings of sounds of wild birds from all across the world. Xeno-canto has plentiful voice recordings of birds. We could query it [API](https://www.xeno-canto.org/explore/api) by a Scientific name or Common name of a bird and get the response of recodings and their sono in JSON format, which could be got from The IUCN Red List's API.
 ```JS
 //An example of recording object(excerpts)
  {
