@@ -21,7 +21,7 @@ The data visualization and sonification will meet here for people to generate th
 1. Databases and API
 1.1 [The IUCN Red List](https://www.iucnredlist.org)
 The IUCN Red List of Threatened Species is the best known worldwide conservation status listing and ranking system. We could output the data from their advanced search by filtering the **Taxonomy** (Animalia *Kingdom*, Chordata *Phylum*, Aves *Class*) and **Red List Category(conservation status)**. Here I tentatively choose three categories of EX, EW and CR.
-
+![RedList](./img/redlist.png)
 Also，the Red List provides API query. I have applied their TOKEN, and my request still under review. 
 
 ```Javascript
