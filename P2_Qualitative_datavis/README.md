@@ -28,7 +28,7 @@ The IUCN Red List of Threatened Species is the best known worldwide conservation
 
 ![RedList](./img/redlist.png)
 
-Also，the Red List provides API query. I have applied their TOKEN, and my request still under review. 
+Also，the Red List provides API query. I have applied their TOKEN, and my request is still under review. 
 
 ```Javascript
 //To get a list of species by category:
