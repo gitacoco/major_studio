@@ -69,10 +69,10 @@ www.xeno-canto.org is a website for sharing recordings of sounds of wild birds f
 2. Selection of Birds
 
 
-#### Design Iteration
+### 3. Design Iteration
 **Oct 20 Prototype**
 
-#### Code Implementation
+### 4. Code Implementation
 
 ### Reference
 1. [How Bird Classification Works](http://birding-world.com/bird-classification-works/)
