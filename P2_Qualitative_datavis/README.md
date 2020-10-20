@@ -8,18 +8,22 @@ Generally, people are much more familiar with the appearance of a bird than its 
 2. how could we involve people in a voyage of exploration and discovery, so that they can DIY to make their own take-away experience.
 
 ### Process
-#### Ideation
+### 1. Ideation
+
 **Oct 13 Sketch**
-![Sketch](./img/sketch.jpg)
+
+![Sketch](./img/sketch.JPG)
 This is a continuation of [project 1](https://github.com/gitacoco/major_studio_1/tree/master/P1_Quantitative_datavis) that brings appearances of extinct birds for people. 
 
 In this project, I am going to bring the voices of the threatened birds as well as few extinct ones' (I am lucky to find some precious songs of the birds extinct in recent years). When we think of multiple pictures we may combine them in canvas, like [Collage Art](https://en.wikipedia.org/wiki/Collage). And normally, people appreciate a painting by watching rather than listening since there is no sound. But if we associate each bird's picture with its songs, we enable people to make up a whole picture with bird voices and make it as a concerto to be heard.
 
 The data visualization and sonification will meet here for people to generate their **data experience**.
 
-#### Data Preparation
+### 2. Data Preparation
 1. Databases and API
+
 1.1 [The IUCN Red List](https://www.iucnredlist.org)
+
 The IUCN Red List of Threatened Species is the best known worldwide conservation status listing and ranking system. We could output the data from their advanced search by filtering the **Taxonomy** (Animalia *Kingdom*, Chordata *Phylum*, Aves *Class*) and **Red List Category(conservation status)**. Here I tentatively choose three categories of EX, EW and CR.
 ![RedList](./img/redlist.png)
 Also，the Red List provides API query. I have applied their TOKEN, and my request still under review. 
@@ -47,6 +51,7 @@ Also，the Red List provides API query. I have applied their TOKEN, and my reque
 ```
 
 1.2 [xeno-canto, Sharing bird sounds from around the world](https://www.xeno-canto.org/)
+
 www.xeno-canto.org is a website for sharing recordings of sounds of wild birds from all across the world. Xeno-canto has plentiful voice recordings of birds. We could query it by Scientific name or Common name of a bird and get the response of recodings and their sono in JSON format, which could be got from The IUCN Red List's API.
 ```JS
 //An example of recording object(excerpts)
@@ -62,7 +67,6 @@ www.xeno-canto.org is a website for sharing recordings of sounds of wild birds f
 ```
 
 2. Selection of Birds
-
 
 
 #### Design Iteration
