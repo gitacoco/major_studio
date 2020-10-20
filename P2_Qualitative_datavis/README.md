@@ -78,3 +78,4 @@ www.xeno-canto.org is a website for sharing recordings of sounds of wild birds f
 
 ## Reference
 1. [How Bird Classification Works](http://birding-world.com/bird-classification-works/)
+2. [Drag/Resize/Rotate Javascript](https://github.com/nichollascarter/subjx)
