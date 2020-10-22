@@ -92,6 +92,7 @@ Most commonly used(for me):
 - A Frame as a container
     - Case 7: Bird Project 2 (Control Bar)
     - Case 1: Bird Project 2 (Expand a category of bird list)
+    - Case 6: Xiamen Vis Mobile Client (Unit List)
     - Clip content
 - Affect child objects
     - Move
