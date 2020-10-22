@@ -4,7 +4,7 @@
 
 > Figma is a could-based collaborative interface design tool that compatible with any operating system. 
 
-And the most important, it’s free for individual designers. These are my favorite 6 features of Figma:
+And the most importantly, it’s free for individual designers. Following are my favorite 6 features of Figma:
 
 1. **Version Control**
 
