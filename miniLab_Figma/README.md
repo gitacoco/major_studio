@@ -78,6 +78,7 @@ Most commonly used(for me):
         - Check by hovering
 - **Smart Animation** VS **Dissolve** or **Instant**
     - Tip: use **Smart Animation** with restraint
+    - Case 8: Bird Project 2 (Dropdown Menu)
 
 ### Sometimes: Overflow Behavior for Frames
 
@@ -86,29 +87,29 @@ Most commonly used(for me):
 > If you've used design tools before, you'll be familiar with artboards. Like artboards, frames allow you to choose an area of the canvas to create your designs in. Unlike traditional artboards, you can also nest frames within other frames. This allows to create more complex design that work together.
 
 - A Frame as a container
-    - Case 8: Bird Project 2 (Control Bar)
-    - Case 9: Bird Project 2 (Bird List)
+    - Case 9: Bird Project 2 (Control Bar)
+    - Case 10: Bird Project 2 (Bird List)
     - Clip content
 - Affect child objects
     - Move
     - Resize
-    - Case 10: Bird Project 2 (SI Logo)
+    - Case 11: Bird Project 2 (SI Logo)
     
 - **Scrolling** VS **Drag**
     - cost of making
     - the nuance of effect
         - Drag: magnetically forced, cross-Frame
         - Scrolling: seamless, stay-in-Frame
-    - Case 11: Xiamen Vis Mobile Client (Components)
+    - Case 12: Xiamen Vis Mobile Client (Components)
     - Asset: [si-logo](./si-logo.svg)
 
 ### Extra strategy
 
 - Hide defect when sharing
 - Choose the most handy tool
-    - Case 12: Bird Project 2 ([Add sound files to prototype](https://www.youtube.com/watch?v=4sKflYAjEyA&feature=youtu.be))
+    - Case 13: Bird Project 2 ([Add sound files to prototype](https://www.youtube.com/watch?v=4sKflYAjEyA&feature=youtu.be))
 
 ### Limitations
 
 - Dynamic Interaction Process
-    - Case 13: Bird Project 2 (Cannot Drag Birds to the Canvas)
+    - Case 14: Bird Project 2 (Cannot Drag Birds to the Canvas)
