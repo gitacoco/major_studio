@@ -100,8 +100,13 @@ Most commonly used(for me):
     - Case 11: Xiamen Vis Mobile Client (Components)
     - Asset: [si-logo](./si-logo.svg)
 
-### working strategy
+### Extra strategy
 
 - Hide defect when sharing
 - Choose the most handy tool
     - Case 12: Bird Project 2 ([Add sound files to prototype](https://www.youtube.com/watch?v=4sKflYAjEyA&feature=youtu.be))
+
+### Limitations
+
+- Dynamic Interaction Process
+    - Case 13: Bird Project 2 (Cannot Drag Birds to the Canvas)
