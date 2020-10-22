@@ -58,7 +58,7 @@ Most commonly used(for me):
     - Case 2: Bird Project 2 (Bird Selection)
     - Case 3: Reading Presentation (Charts Comparison)
 
-Low frequency:
+Low-frequency used(for me):
 - **After Delay**
     - Case 4: Bird Project 2 (Environment Detection)
     - Case 5: Xiamen Vis (A New Fire Event)
@@ -78,7 +78,8 @@ Most commonly used(for me):
         - The same layer name
         - Location in the layer hierarchy
         - Check by hovering
-- **Smart Animation** VS **Dissolve** or **Instant**
+
+**Smart Animation** VS **Dissolve** or **Instant**
     - Tip: use **Smart Animation** with restraint
     - Case 1: Bird Project 2 (Expand a category of bird list)
 
