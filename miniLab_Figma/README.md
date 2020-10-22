@@ -41,9 +41,11 @@ Figma has tons of useful features such as **Auto Layout**, **Components(Equivale
 
 ## Prototyping with Figma
 
+In Figma, you can design, prototype and present, all in the same tool. You prototype while you design, and design while you prototype. 
+
 [![Prototype](./img/Player.jpeg)](https://github.com/gitacoco/major_studio_1/tree/master/P2_Qualitative_datavis)
 
-In Figma, you can design, prototype and present, all in the same tool. You prototype while you design, and design while you prototype. I summarized three main steps for prototyping with Figma:
+I summarized three main steps for prototyping with Figma:
 
 ### Step 1: Connect Framers 
 
