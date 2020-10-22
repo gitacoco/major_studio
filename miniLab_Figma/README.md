@@ -73,6 +73,7 @@ Most commonly used(for me):
 - **Smart Animation**
     - Equivalent of Keynote Magic Move in Keynote or Inbetweening in Flash
     - Case 7: Bird Project 2 (Control Bar)
+        - Problem: a leak of the text
     - Use tips:
         - The same layer name
         - Location in the layer hierarchy
@@ -80,7 +81,6 @@ Most commonly used(for me):
 - **Smart Animation** VS **Dissolve** or **Instant**
     - Tip: use **Smart Animation** with restraint
     - Case 1: Bird Project 2 (Expand a category of bird list)
-    - Problem: a leak of the text
 
 ### Sometimes: Overflow Behavior for Frames
 
