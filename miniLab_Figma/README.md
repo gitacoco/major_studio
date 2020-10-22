@@ -108,7 +108,7 @@ Most commonly used(for me):
 ### Extra strategy
 
 - Hide defect when sharing
-- Choose the most handy tool
+- Trade off: choosing the most handy tool
     - Case 9: Bird Project 2 ([Add sound files to prototype](https://www.youtube.com/watch?v=4sKflYAjEyA&feature=youtu.be))
 
 ### Limitations
