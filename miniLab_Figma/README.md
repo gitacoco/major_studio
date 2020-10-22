@@ -60,7 +60,7 @@ Most commonly used(for me):
 Low frequency:
 - **After Delay**
     - Case 4: Bird Project 2 (Environment Detection)
-    - Case 5: Xiamen Vis (A New Fire Case)
+    - Case 5: Xiamen Vis (A New Fire Event)
 - **Drag**
     - Case 6: Xiamen Vis Mobile Client (Page)
 
