@@ -95,6 +95,7 @@ Most commonly used(for me):
 - Affect child objects
     - Move
     - Resize
+    - Set Horizontal and Vertical Constraint
     - Case 8: Bird Project 2 (SI Logo)
     
 - **Scrolling** VS **Drag**
