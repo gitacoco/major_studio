@@ -96,7 +96,7 @@ Most commonly used(for me):
     - Move
     - Resize
     - Set Horizontal and Vertical Constraint
-    - Case 8: Bird Project 2 (SI Logo)
+    - Case 8: Bird Project 2 [SI Logo](./si-logo.svg)
     
 - **Scrolling** VS **Drag**
     - cost of making
@@ -104,7 +104,6 @@ Most commonly used(for me):
         - Drag: magnetically forced, cross-Frame
         - Scrolling: seamless, stay-in-Frame
     - Case 6: Xiamen Vis Mobile Client (Components)
-    - Asset: [si-logo](./si-logo.svg)
 
 ### Extra strategy
 
