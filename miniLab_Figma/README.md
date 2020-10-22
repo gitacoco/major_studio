@@ -6,7 +6,8 @@
 
 And the most important, it’s free for individual designers. These are my favorite 6 features of Figma:
 
-1. Version Control
+1. **Version Control**
+
 In programming, we use Git to records changes to a file over time so that we can recall specific versions later.  And traditionally, for UI design software we would manage our file like this way: 
 
 <img src="./version_control.png" width="50%" height="50%">
@@ -25,11 +26,29 @@ Figma has lots of features to support Bulk Manipulation (such as change color, r
 
 5. Any Operating System
 
-Windows, Mac OS & Linux, as long as you can run web browsers. And they also have a client application that supports offline editing. And there even is a third-party application in iPadOS called [Figurative]([Figurative – A Figma app for iPadOS](https://figurative.design)), supporting Apple Pencil and touch gestures. 
+Windows, Mac OS & Linux, as long as you can run web browsers. And they also have a client application that supports offline editing. And there even is a third-party application in iPadOS called ([Figurative](https://figurative.design)), supporting Apple Pencil and touch gestures. 
 I once experienced it when I was away from home.
 
-<img src="./compatibility.png" width="20%" height="20%">
+<img src="./compatibility.png" width="35%" height="35%">
 
 6. An Accelerator for your Design: UI Kits, Design Systems, Wireframes and Plugins in Community
 
 Sometimes, you need to deliver a hi-fi prototype rapidly for your client. Even if you are still in the early stage of the project. Many clients they just have no clear idea of the outcome, and their needs. You need to show something first. So the case here is that you could make it with the help of UI kits in Figma community. For example, this is a firefighting situational awareness system for Xiamen City in China, this is for large-screen environment.  There was a day my client had a brainwave that they want an edition for cellphone. This is not a formal requirement, so I used UI kits in Figma to build a hi-fi mockup in 4 hours. But this is my only project I was using UI kit. (I never used them for Major Studio Projects!)
+
+7. Besides Above
+
+Figma has tons of very useful features such as Design responsively with Auto Layout, Use Components to build Design System and real-time Collaboration and Share and Present. If you are still interested in these features, you can visit Figma official website for [courses and resources]([Courses Resources Section](https://www.figma.com/resources/courses/)).
+
+## Prototyping with Figma
+
+In Figma, you can design, prototype and present, all in the same tool. You prototype while you design, and design while you prototype. I summarized three main steps for prototyping with Figma:
+
+### Step 1: Connect Framers 
+
+### Step 2: Set the Interaction (Transformation Trigger)
+
+### Step 3: Set the Animation (Transition)
+
+### Sometimes: Overflow Behavior for Frames
+
+### Hide defect when sharing 
