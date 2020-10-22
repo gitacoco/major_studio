@@ -9,6 +9,8 @@ And the most important, it’s free for individual designers. These are my favor
 1. Version Control
 In programming, we use Git to records changes to a file over time so that we can recall specific versions later.  And traditionally, for UI design software we would manage our file like this way: 
 
+<img src="./version_control.png" width="50%" height="50%">
+
 ![performance](./version_control.png){:height="50%" width="50%"}
 
 But in Figma, that would be a different story. And you never need to struggle with losing and juggling files. 
