@@ -73,7 +73,7 @@ Most commonly used(for me):
 - **Instant**
 - **Smart Animation**
     - Equivalent of Keynote Magic Move in Keynote or Inbetweening in Flash
-    - Not only make up for the shape, but movement, color and many other things
+    - Not only make up for the shape, but movement, color (gradient and transparency) and many other things
     - Case 6: Xiamen Vis Mobile Client (Panel and Pages)
     - Case 7: Bird Project 2 (Control Bar)
         - Problem: a leak of the text
