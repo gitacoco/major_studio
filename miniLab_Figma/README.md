@@ -52,7 +52,7 @@ In Figma, you can design, prototype and present, all in the same tool. You proto
 
 Most commonly used(for me):
 - **On Click**
-    - Case 1: Bird Project 2
+    - Case 1: Bird Project 2 (Expand a category of bird list)
 
 - **While Hovering**
     - Case 2: Bird Project 2 (Bird Selection)
