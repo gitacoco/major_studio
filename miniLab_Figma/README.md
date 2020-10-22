@@ -60,7 +60,7 @@ Low frequency:
     - Case 4: Bird Project 2 (Environment Detection)
     - Case 5: Xiamen Vis (A New Fire Case)
 - **Drag**
-    - Case 6: Xiamen Vis (Mobile client)
+    - Case 6: Xiamen Vis Mobile Client (Page)
 
 ### Step 3: Set the Animation (Transition)
 
@@ -78,22 +78,24 @@ Most commonly used(for me):
 
 - Frames in Figma
 
-> In Figma, you can add layers directly to the Canvas. If you're designing for a specific device or screen size, you may want to create a container for your designs. This is where frames come in.
+> If you've used design tools before, you'll be familiar with artboards. Like artboards, frames allow you to choose an area of the canvas to create your designs in. Unlike traditional artboards, you can also nest frames within other frames. This allows to create more complex design that work together.
 
-If you've used design tools before, you'll be familiar with artboards. Like artboards, frames allow you to choose an area of the canvas to create your designs in.
-
-Unlike traditional artboards, you can also nest frames within other frames. This allows to create more complex design that work together.
-
-    - Contain vector elements
-    - clip content
+    - A Frame as a contrainer
+        - Case 8: Bird Project 2 (Bird List)
+        - Clip content
+    - Affect child objects
+        - Move
+        - Resize
+    
 - **Scrolling** VS **Drag**
     - cost of making
-    - the nuance of effec
+    - the nuance of effect
         - Drag: magnetically forced
         - Scrolling: seamless
+    - Case 9: Xiamen Vis Mobile Client (Components)
 
 ### working strategy
 
 1. Hide defect when sharing
 2. Choose the most handy tool
-    - Case 8: Bird Project 2 ([Add sound files to prototype](https://www.youtube.com/watch?v=4sKflYAjEyA&feature=youtu.be))
+    - Case 10: Bird Project 2 ([Add sound files to prototype](https://www.youtube.com/watch?v=4sKflYAjEyA&feature=youtu.be))
