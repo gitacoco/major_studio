@@ -76,7 +76,16 @@ Most commonly used(for me):
 
 ### Sometimes: Overflow Behavior for Frames
 
-- What is a Frame？
+- Frames in Figma
+
+> In Figma, you can add layers directly to the Canvas. If you're designing for a specific device or screen size, you may want to create a container for your designs. This is where frames come in.
+
+If you've used design tools before, you'll be familiar with artboards. Like artboards, frames allow you to choose an area of the canvas to create your designs in.
+
+Unlike traditional artboards, you can also nest frames within other frames. This allows to create more complex design that work together.
+
+    - Contain vector elements
+    - clip content
 - **Scrolling** VS **Drag**
     - cost of making
     - the nuance of effec
