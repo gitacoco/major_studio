@@ -83,23 +83,24 @@ Most commonly used(for me):
 > If you've used design tools before, you'll be familiar with artboards. Like artboards, frames allow you to choose an area of the canvas to create your designs in. Unlike traditional artboards, you can also nest frames within other frames. This allows to create more complex design that work together.
 
 - A Frame as a container
-    - Case 8: Bird Project 2 (Bird List)
+    - Case 8: Bird Project 2 (Control Bar)
+    - Case 9: Bird Project 2 (Bird List)
     - Clip content
 - Affect child objects
     - Move
     - Resize
-    - Case 9: Bird Project 2 (SI Logo)
+    - Case 10: Bird Project 2 (SI Logo)
     
 - **Scrolling** VS **Drag**
     - cost of making
     - the nuance of effect
         - Drag: magnetically forced, cross-Frame
         - Scrolling: seamless, stay-in-Frame
-    - Case 9: Xiamen Vis Mobile Client (Components)
+    - Case 11: Xiamen Vis Mobile Client (Components)
     - Asset: [si-logo](./si-logo.svg)
 
 ### working strategy
 
 - Hide defect when sharing
 - Choose the most handy tool
-    - Case 10: Bird Project 2 ([Add sound files to prototype](https://www.youtube.com/watch?v=4sKflYAjEyA&feature=youtu.be))
+    - Case 12: Bird Project 2 ([Add sound files to prototype](https://www.youtube.com/watch?v=4sKflYAjEyA&feature=youtu.be))
