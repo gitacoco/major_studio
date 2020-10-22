@@ -16,7 +16,7 @@ But in Figma, that would be a different story. And you never need to struggle wi
 
 2. **High-Performance Computing**
 
-Usually, when we have too many (actually it’s not too many) layers or elementals, the software tens to stutter or get lags. They would be too slow and don’t response in time. But Figma is cloud-based. It is a SaaS platform, like Gmail, Google Docs. So the computing process is in the cloud, and have a high performance.
+Usually, when we have too many (actually it’s not too many) layers or elementals, the software tends to stutter or get lags. They would be too slow and don’t response in time. But Figma is cloud-based. It is a SaaS platform, like Gmail, Google Docs. So the computing process is in the cloud, and have a high performance.
 
 <img src="./Speed.gif" width="40%" height="40%">
 
@@ -68,11 +68,13 @@ Most commonly used(for me):
 - **Dissolve**
 - **Instant**
 - **Smart Animation**
+    - Equivalent of Keynote Magic Move in Keynote or Inbetweening in Flash
     - Case 7: Bird Project 2 (Control Bar)
-    - The same layer name
-    - Location in the layer hierarchy
-    - Check by hovering
-    - Tip: use it with restraint
+    - Use tips:
+        - The same layer name
+        - Location in the layer hierarchy
+        - Check by hovering
+        - Tip: use it with restraint
 
 ### Sometimes: Overflow Behavior for Frames
 
@@ -80,7 +82,7 @@ Most commonly used(for me):
 
 > If you've used design tools before, you'll be familiar with artboards. Like artboards, frames allow you to choose an area of the canvas to create your designs in. Unlike traditional artboards, you can also nest frames within other frames. This allows to create more complex design that work together.
 
-- A Frame as a contrainer
+- A Frame as a container
     - Case 8: Bird Project 2 (Bird List)
     - Clip content
 - Affect child objects
@@ -91,8 +93,8 @@ Most commonly used(for me):
 - **Scrolling** VS **Drag**
     - cost of making
     - the nuance of effect
-        - Drag: magnetically forced
-        - Scrolling: seamless
+        - Drag: magnetically forced, cross-Frame
+        - Scrolling: seamless, stay-in-Frame
     - Case 9: Xiamen Vis Mobile Client (Components)
     - Asset: [si-logo](./si-logo.svg)
 
