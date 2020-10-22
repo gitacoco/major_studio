@@ -26,7 +26,7 @@ Figma has lots of features to support Bulk Manipulation (such as change color, r
 
 5. Any Operating System
 
-Windows, Mac OS & Linux, as long as you can run web browsers. And they also have a client application that supports offline editing. And there even is a third-party application in iPadOS called ([Figurative](https://figurative.design)), supporting Apple Pencil and touch gestures. 
+Windows, Mac OS & Linux, as long as you can run web browsers. And they also have a client application that supports offline editing. And there even is a third-party application in iPadOS called [Figurative](https://figurative.design), supporting Apple Pencil and touch gestures. 
 I once experienced it when I was away from home.
 
 <img src="./compatibility.png" width="35%" height="35%">
@@ -37,7 +37,7 @@ Sometimes, you need to deliver a hi-fi prototype rapidly for your client. Even i
 
 7. Besides Above
 
-Figma has tons of very useful features such as Design responsively with Auto Layout, Use Components to build Design System and real-time Collaboration and Share and Present. If you are still interested in these features, you can visit Figma official website for [courses and resources]([Courses Resources Section](https://www.figma.com/resources/courses/)).
+Figma has tons of very useful features such as **Auto Layout**, **Components(Equivalent to **Symbol** in Sketch)**, **Design System** and **Collaboration and Share and Present**. If you are still interested in these features, you can visit [Courses Resources Section](https://www.figma.com/resources/courses/).
 
 ## Prototyping with Figma
 
