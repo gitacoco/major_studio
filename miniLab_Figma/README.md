@@ -1,1 +1,1 @@
-![performance](./Speed.gif.gif)
+![performance](./Speed.gif)
