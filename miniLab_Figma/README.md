@@ -74,7 +74,8 @@ Most commonly used(for me):
         - The same layer name
         - Location in the layer hierarchy
         - Check by hovering
-        - Tip: use it with restraint
+- **Smart Animation** VS **Dissolve** or **Instant**
+    - Tip: use **Smart Animation** with restraint
 
 ### Sometimes: Overflow Behavior for Frames
 
