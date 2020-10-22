@@ -64,7 +64,7 @@ Low-frequency used(for me):
     - Case 4: Bird Project 2 (Environment Detection)
     - Case 5: Xiamen Vis (A New Fire Event)
 - **Drag**
-    - Case 6: Xiamen Vis Mobile Client (Page)
+    - Case 6: Xiamen Vis Mobile Client (Panel)
 
 ### Step 3: Set the Animation (Transition)
 
@@ -74,6 +74,7 @@ Most commonly used(for me):
 - **Smart Animation**
     - Equivalent of Keynote Magic Move in Keynote or Inbetweening in Flash
     - Not only make up for the shape, but movement, color and many other things
+    - Case 6: Xiamen Vis Mobile Client (Panel and Pages)
     - Case 7: Bird Project 2 (Control Bar)
         - Problem: a leak of the text
     - Use tips:
@@ -107,7 +108,7 @@ Most commonly used(for me):
     - the nuance of effect
         - Drag: magnetically forced, cross-Frame
         - Scrolling: seamless, stay-in-Frame
-    - Case 6: Xiamen Vis Mobile Client (Components)
+    - Case 6: Xiamen Vis Mobile Client (Panels)
 
 ### Extra strategy
 
