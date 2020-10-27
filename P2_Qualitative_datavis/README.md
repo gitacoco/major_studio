@@ -91,9 +91,6 @@ The NAME of a TYPE specimen, e.g.:
 `birds/?qt=otus+asio+maxwelliae`
 `birds/?qt=sialia+mexicana`
 
-2. Selection of Birds
-
-
 ## Reference
 1. [How Bird Classification Works](http://birding-world.com/bird-classification-works/)
 2. [Drag/Resize/Rotate Javascript](https://github.com/nichollascarter/subjx)
