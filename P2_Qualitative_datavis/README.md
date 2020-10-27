@@ -85,8 +85,7 @@ The Division of Birds, National Museum of Natural History, Smithsonian Instituti
 ![RedList](./img/SIindex.png)
 
 To create a link to specific records at NMNH provide a querystring for: https://collections.nmnh.si.edu/search/birds/?QUERYSTRING
-
-where QUERYSTRING is (use a plus-sign to separate case-insensitive terms):
+Where QUERYSTRING is (use a plus-sign to separate case-insensitive terms):
 The NAME of a TYPE specimen, e.g.:
 `birds/?qt=otus+asio+maxwelliae`
 `birds/?qt=sialia+mexicana`
