@@ -78,7 +78,7 @@ xeno-canto is a website for sharing recordings of sounds of wild birds from all 
     }, //an object with the urls to the sonograms
 ```
 
-3. The NMNH Birds Collection Database
+3. [The NMNH Birds Collection Database](https://collections.nmnh.si.edu/search/birds/)
 
 The Division of Birds, National Museum of Natural History, Smithsonian Institution, houses and maintains the third largest bird collection in the world with over 625,000 specimens. We could use this database to match the candidates in our list: if NMNH has corresponding specimen records, the candidate will be marked a clickable logo:
 
