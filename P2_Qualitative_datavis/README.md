@@ -78,16 +78,15 @@ xeno-canto is a website for sharing recordings of sounds of wild birds from all 
 3. The NMNH Birds Collection Database
 
 The Division of Birds, National Museum of Natural History, Smithsonian Institution, houses and maintains the third largest bird collection in the world with over 625,000 specimens. We could use this database to match the candidates in our list: if NMNH has corresponding specimen records, the candidate will be marked a clickable logo:
-![RedList](./img/SIindex.png)
 
+![RedList](./img/SIindex.png)
 
 To create a link to specific records at NMNH provide a querystring for: https://collections.nmnh.si.edu/search/birds/?QUERYSTRING
 
 where QUERYSTRING is (use a plus-sign to separate case-insensitive terms):
-
 The NAME of a TYPE specimen, e.g.:
-birds/?qt=otus+asio+maxwelliae
-birds/?qt=sialia+mexicana
+`birds/?qt=otus+asio+maxwelliae`
+`birds/?qt=sialia+mexicana`
 
 2. Selection of Birds
 
