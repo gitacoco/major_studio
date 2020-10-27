@@ -30,7 +30,7 @@ The data visualization and sonification will meet here for people to generate th
 ![Roadmap](./img/roadmap.png)
 
 ### Data Preparation
-#### Databases and API
+#### 1. Introduction to Databases and APIs
 
 1. [The IUCN Red List](https://www.iucnredlist.org)
 
@@ -89,6 +89,12 @@ Where QUERYSTRING is (use a plus-sign to separate case-insensitive terms):
 The NAME of a TYPE specimen, e.g.:
 `birds/?qt=otus+asio+maxwelliae`
 `birds/?qt=sialia+mexicana`
+
+#### 2. Dataset Construction
+#### 3. Front-end Engineering
+
+3.1 [interact.js](https://interactjs.io)
+JavaScript drag and drop, resizing, and multi-touch gestures for modern browsers (and also IE9+)
 
 ## Reference
 1. [How Bird Classification Works](http://birding-world.com/bird-classification-works/)
