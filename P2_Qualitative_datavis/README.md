@@ -26,6 +26,9 @@ The data visualization and sonification will meet here for people to generate th
 [![Prototype](./img/Player.jpeg)](https://www.youtube.com/watch?v=2HPtaNh0Wno)
 
 ## Implementation Process
+
+![Roadmap](./img/roadmap.png)
+
 ### Data Preparation
 #### Databases and API
 
@@ -94,3 +97,7 @@ The NAME of a TYPE specimen, e.g.:
 ## Reference
 1. [How Bird Classification Works](http://birding-world.com/bird-classification-works/)
 2. [Drag/Resize/Rotate Javascript](https://github.com/nichollascarter/subjx)
+3. [How to Generate Waveform Images From Audio Files](https://cloudinary.com/blog/how_to_generate_waveform_images_from_audio_files)
+4. [Generating Waveforms using the WordPress REST API](https://www.cedaro.com/blog/generating-waveforms-using-the-wordpress-rest-api/)
+5. [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+6. [Create a waveform of the full track with Web Audio API](https://stackoverflow.com/questions/22073716/create-a-waveform-of-the-full-track-with-web-audio-api)
