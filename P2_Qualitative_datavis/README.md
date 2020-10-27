@@ -32,7 +32,7 @@ The data visualization and sonification will meet here for people to generate th
 ### Data Preparation
 #### 1. Introduction to Databases and APIs
 
-1. [The IUCN Red List](https://www.iucnredlist.org)
+1.1 [The IUCN Red List](https://www.iucnredlist.org)
 
 The IUCN Red List of Threatened Species is the best known worldwide conservation status listing and ranking system. We could output the data from their advanced search by filtering the **Taxonomy** (Animalia *Kingdom*, Chordata *Phylum*, Aves *Class*) and **Red List Category(conservation status)**. Here I tentatively choose three categories of EX, EW and CR.
 
@@ -62,7 +62,7 @@ Also, the Red List provides [API query](https://apiv3.iucnredlist.org/api/v3/doc
 
 ```
 
-2. [xeno-canto](https://www.xeno-canto.org/)
+1.2 [xeno-canto](https://www.xeno-canto.org/)
 
 xeno-canto is a website for sharing recordings of sounds of wild birds from all across the world. Xeno-canto has plentiful voice recordings of birds. We could query it [API](https://www.xeno-canto.org/explore/api) by a Scientific name or Common name of a bird and get the response of recodings and their sono in JSON format, which could be got from The IUCN Red List's API.
 ```JS
@@ -78,7 +78,7 @@ xeno-canto is a website for sharing recordings of sounds of wild birds from all 
     }, //an object with the urls to the sonograms
 ```
 
-3. [The NMNH Birds Collection Database](https://collections.nmnh.si.edu/search/birds/)
+1.3 [The NMNH Birds Collection Database](https://collections.nmnh.si.edu/search/birds/)
 
 The Division of Birds, National Museum of Natural History, Smithsonian Institution, houses and maintains the third largest bird collection in the world with over 625,000 specimens. We could use this database to match the candidates in our list: if NMNH has corresponding specimen records, the candidate will be marked a clickable logo:
 
