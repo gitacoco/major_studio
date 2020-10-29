@@ -22,7 +22,7 @@ Usually, when we have too many (actually not too many) layers or elementals, the
 
 4. **High-efficiency Editing**
 
-Figma has lots of features to support Bulk Manipulation (such as color modification, rename) and Quick Select. Take **modification** as an example, in Sketch, especially in nested layers, If we want to change color of a specific element, we need to click again and again to enter the target layer. But in Figma, this would not happen. 
+Figma has lots of features to support Bulk Manipulation (such as color modification, rename) and Quick Select. Take **color modification** as an example, in Sketch, especially in nested layers, If we want to change color of a specific element, we need to click again and again to enter the target layer. But in Figma, this would not happen. 
 
 5. **Compatibility**
 
