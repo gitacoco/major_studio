@@ -47,7 +47,7 @@ In Figma, you can design, prototype and present, all in the same tool. You proto
 
 I summarized three main steps for prototyping with Figma:
 
-![Prototype](./steps.png)
+![steps](./steps.png)
 
 ### Step 1: Connecting Frames 
 
@@ -85,13 +85,13 @@ Most commonly used(for me):
     - Equivalent of Keynote Magic Move in Keynote or Inbetweening in Flash
     - Not only make up for the shape and size, but movement, rotation, color (gradient and transparency) and many other things
 
-Use tips:
-        - The same layer name
-        - Location in the layer hierarchy
-        - Check by hovering
-
     - Case 7: Bird Project 2 (Control Bar)
         - Problem: a leak of the text
+
+    Use tips:
+    - The same layer name
+    - Location in the layer hierarchy
+    - Check by hovering
 
 **Smart Animation** VS **Dissolve** or **Instant**
     - Tip: use **Smart Animation** with restraint
