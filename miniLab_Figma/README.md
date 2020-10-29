@@ -47,9 +47,17 @@ In Figma, you can design, prototype and present, all in the same tool. You proto
 
 I summarized three main steps for prototyping with Figma:
 
-### Step 1: Connect Framers 
+### Step 1: Connecting Frames 
 
-### Step 2: Set the Interaction (Transformation Trigger)
+The nature:
+changes/animation = transformations across frames
+
+identical area between two pages = visually static
+difference between two pages = changes/animation
+
+* from linear to non-linear
+
+### Step 2: Setting the Interaction (Transformation Trigger)
 
 Most commonly used(for me):
 - **On Click**
@@ -66,7 +74,7 @@ Low-frequency used(for me):
 - **Drag**
     - Case 6: Xiamen Vis Mobile Client (Panel)
 
-### Step 3: Set the Animation (Transition)
+### Step 3: Setting the Animation (Transition)
 
 Most commonly used(for me):
 - **Dissolve**
@@ -74,13 +82,14 @@ Most commonly used(for me):
 - **Smart Animation**
     - Equivalent of Keynote Magic Move in Keynote or Inbetweening in Flash
     - Not only make up for the shape and size, but movement, rotation, color (gradient and transparency) and many other things
-    - Case 6: Xiamen Vis Mobile Client (Panel and Pages)
-    - Case 7: Bird Project 2 (Control Bar)
-        - Problem: a leak of the text
-    - Use tips:
+
+Use tips:
         - The same layer name
         - Location in the layer hierarchy
         - Check by hovering
+
+    - Case 7: Bird Project 2 (Control Bar)
+        - Problem: a leak of the text
 
 **Smart Animation** VS **Dissolve** or **Instant**
     - Tip: use **Smart Animation** with restraint
@@ -103,7 +112,7 @@ Most commonly used(for me):
     - Set Horizontal and Vertical Constraint
     - Case 8: Bird Project 2 [SI Logo](./si-logo.svg)
     
-- **Scrolling** VS **Drag**
+- **Scrolling** VS **Push**
     - cost of making
     - the nuance of effect
         - Drag: magnetically forced, cross-Frame
