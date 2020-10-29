@@ -94,6 +94,7 @@ Most commonly used(for me):
     - Check by hovering
 
 **Smart Animation** VS **Dissolve** or **Instant**
+
     - Tip: use **Smart Animation** with restraint
     - Case 1: Bird Project 2 (Expand a category of bird list)
 
