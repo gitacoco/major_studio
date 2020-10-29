@@ -133,4 +133,4 @@ Most commonly used(for me):
 - Dynamic Interaction Process
     - Case 10: Bird Project 2 (Cannot Drag Birds to the Canvas)
 
-The prototype function in Figma is not as powerful as specialized prototype tools, but it meets most of my needs and it has its exclusive advantage: straightforward and seamless with design process.
+The prototype function in Figma is not as powerful as some tools specialized for prototyping, but it meets most of my needs and it has its exclusive advantage: straightforward and seamless with design process.
