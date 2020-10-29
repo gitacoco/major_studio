@@ -47,6 +47,8 @@ In Figma, you can design, prototype and present, all in the same tool. You proto
 
 I summarized three main steps for prototyping with Figma:
 
+![Prototype](./steps.png)
+
 ### Step 1: Connecting Frames 
 
 The nature:
