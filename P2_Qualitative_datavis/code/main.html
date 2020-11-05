@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>A Symphonyc Beyond Reach</title>
+    
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
+
+    <script src="jquery.collapsible.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.1.3/howler.core.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script src="jquery.ui.rotatable.js"></script>
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/flick/jquery-ui.css">
+    <link rel="stylesheet" href="jquery.ui.rotatable.css">
+    <link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="frame">
+            <div class="singlebird1"></div>
+            <div class="singlebird2"></div>
+            <div class="singlebird3"></div>
+            <!-- <div id="wrapper">
+                <div id="toolbar">
+                    <div class="button"></div>
+                    <ul class="icons">
+                        <a href="http://www.jsdaima.com/" target="_blank" title="Add bgm">
+                            <li><i class="fa fa-home fa-2x" aria-hidden="true"></i></li>
+                        </a>
+                        <a href="http://www.jsdaima.com/js/" target="_blank" title="Another VOICE">
+                            <li><i class="fa fa-user fa-2x" aria-hidden="true"></i></li>
+                        </a>
+                        <a href="http://www.jsdaima.com/webpage/" target="_blank" title="CHANGE PICTURE">
+                            <li><i class="fa fa-star fa-2x" aria-hidden="true"></i></li>
+                        </a>
+                        <a href="http://www.jsdaima.com/yuanma/" target="_blank" title="SHARE">
+                            <li><i class="fa fa-file-text-o fa-2x" aria-hidden="true"></i></li>
+                        </a>
+                    </ul>
+                </div> -->
+        </div>
+    </div>
+    <div class="panel">
+        <div class="title"></div>
+        <div id="accordion">
+            <h3>Extinct (3)</h3>
+            <div class="items">
+                <div class="bird1"></div>
+                <div class="bird2"></div>
+                <div class="bird3"></div>
+            </div>
+            <h3>Extinct in the wild (1)</h3>
+            <div class="items">
+                <div class="bird1"></div>
+            </div>
+            <h3>Critically Endangered (98)</h3>
+            <div class="items">
+                <div class="bird1"></div>
+                <div class="bird1"></div>
+                <div class="bird1"></div>
+                <div class="bird1"></div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <script>
+        $(function () {
+            $("#accordion").accordion();
+        });
+
+        tippy('.bird3', {
+            inertia: true,
+            arrow: true,
+            content: '<a href="https://collections.nmnh.si.edu/search/birds/?qn=zosterops+conspicillatus" style="color:white">See specimens in NMNH Bird Division</a>',
+            allowHTML: true,
+            interactive: true,
+            //delay: [null, 200],
+        });
+
+        var $frame = $('.frame')
+        var $panel = $('.panel')
+
+        var player1 = new Howl({
+            src: ['./sound/XC181063.mp3'],
+            loop: true,
+            volume: 0.7,
+        })
+
+        $('.bird1').click(function () {
+            var $singlebird = $('.singlebird1')
+            var $this = $singlebird
+            if ($this.css('visibility') == 'hidden') {
+                $this.css('visibility', 'visible');
+                player1.play()
+                $this.draggable();
+                $this.resizable({
+                    aspectRatio: true,
+                    handles: 'ne, se, sw, nw'
+                });
+            } else {
+                player1.pause()
+                $this.css('visibility', 'hidden');
+            }
+        })
+
+        var player2 = new Howl({
+            src: ['./sound/XC180906.mp3'],
+            loop: true,
+        })
+
+        $('.bird2').click(function () {
+            var $singlebird = $('.singlebird2')
+            var $this = $singlebird
+            if ($this.css('visibility') == 'hidden') {
+                $this.css('visibility', 'visible');
+                player2.play()
+                $this.draggable();
+                $this.resizable({
+                    aspectRatio: true,
+                    handles: 'ne, se, sw, nw'
+                });
+            } else {
+                player2.pause()
+                $this.css('visibility', 'hidden');
+            }
+        })
+
+        var player3 = new Howl({
+            src: ['./sound/XC66341.mp3'],
+            loop: true,
+        })
+
+        $('.bird3').click(function () {
+            var $singlebird = $('.singlebird3')
+            var $this = $singlebird
+            if ($this.css('visibility') == 'hidden') {
+                $this.css('visibility', 'visible');
+                player3.play()
+                $this.draggable();
+                $this.resizable({
+                    aspectRatio: true,
+                    handles: 'ne, se, sw, nw'
+                });
+            } else {
+                player3.pause()
+                $this.css('visibility', 'hidden');
+            }
+        })
+
+
+
+        // $(".button").click(function () {
+        //     $(this).toggleClass("active");
+        //     $(".icons").toggleClass("open");
+        // });
+
+    </script>
+</body>
+
+</html>

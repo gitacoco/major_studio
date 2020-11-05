@@ -1,0 +1,330 @@
+body {
+  height: 100vh;
+  margin: 0px;
+  background-color: #e9e9e9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-y: hidden;
+}
+
+.label {
+    display: inline-block;
+    width: 5em;
+  }
+
+.container {
+  flex-direction: row;
+  height: 100vh;
+  width: 100vh;
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 16%;
+  position: absolute;
+  left: 0px;
+  padding: 20px 50px 20px 50px;
+}
+
+.title {
+  height: 12%;
+  width: 100%;
+  position: relative;
+  top: 30px;
+  background-image: url("./img/title.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  margin-bottom: 50px;
+}
+
+.frame {
+  height: 100vh;
+  width: 80%;
+  position: absolute;
+  margin-top: auto;
+  margin-bottom: auto;
+  right: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/bgimg.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  overflow: auto;
+}
+
+#items {
+  height: 50vh;
+  width: 100%;
+  top: 5vh;
+  bottom: 5vh;
+  position: relative;
+}
+
+.bird1 {
+  height: 200px;
+  width: 300px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  background-image: url("./img/bird1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.singlebird1 {
+    visibility: hidden;
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-image: url("./img/alagoas.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+.bird2 {
+  height: 200px;
+  width: 300px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  background-image: url("./img/bird2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.singlebird2 {
+    visibility: hidden;
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-image: url("./img/cryptic.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+.bird3 {
+  height: 200px;
+  width: 300px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  background-image: url("./img/bird3.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.singlebird3 {
+    visibility: hidden;
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-image: url("./img/bridled.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+.candidate {
+  width: 200px;
+  height: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ui-resizable-handle {
+  background: #f5dc58;
+  /* border: 1px solid #f5dc58 */
+  width: 9px;
+  height: 9px;
+  z-index: 2;
+}
+
+.ui-resizable-se {
+  right: -5px;
+  bottom: -5px;
+}
+
+.ui-rotatable-handle {
+  background: #d60808;
+  border: 1px solid #f5dc58;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  cursor: pointer;
+
+  height: 10px;
+  left: 50%;
+  margin: 0 0 0 -5px;
+  position: absolute;
+  top: -5px;
+  width: 10px;
+}
+
+.ui-accordion .ui-accordion-header {
+  
+  display: block;
+  cursor: pointer;
+  position: relative;
+  margin: 10px 0 0 0;
+  padding: 0.5em 0.5em 0.5em 0.7em;
+  font-size: 100%;
+  font-family: din-2014, sans-serif;
+  font-style: normal;
+  font-weight: 350;
+  text-transform: uppercase;
+  color: #828282;
+}
+.ui-accordion .ui-accordion-content {
+  max-height: 68vh;
+  padding: 0px;
+  border-top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+}
+
+.ui-widget-content {
+    border: 0px solid #000000 !important;
+    background: transparent !important;
+}
+
+.ui-helper-reset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    line-height: 1.2 !important;
+    text-decoration: none;
+    font-size: 100%;
+    list-style: none;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+    border-top: 2px solid #828282;
+    border-bottom: 2px solid #828282;
+    border-left: 0px solid #280e0e !important; 
+    border-right: 0px solid #280e0e !important; 
+    background: transparent !important; 
+    font-weight: bold;
+    color: #0073ea;
+}
+
+#wrapper {
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+  }
+  
+  
+  #toolbar {  
+    width:100%;
+    max-width:670px;
+    min-width:550px;
+    margin: 70px auto;
+  }
+  
+  .button {
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    background-color:#3AB09E;
+    color:#ffffff;
+    text-align:center;
+    font-size:3.5em;
+    position:relative;
+    left:50%;
+    margin-left:-35px;
+    z-index:1;
+  }
+  
+  .button:hover {
+      cursor: pointer;
+  }
+  
+  .button,.icons{
+    -webkit-transition: -webkit-all 1s cubic-bezier(.87,-.41,.19,1.44);
+            transition:  all 1s cubic-bezier(.87,-.41,.19,1.44);
+  }
+  
+  .button:after {
+    content:"+";
+  }
+  
+  .button.active {
+  -webkit-transform: rotate(45deg);
+   transform: rotate(45deg);
+    left:60px;
+  }
+  
+  
+  .icons {
+    width:0%;
+    overflow:hidden;
+    height:36px;
+    list-style:none;
+    padding:16px 10px 10px 50px;
+    background-color:#ffffff;
+    box-shadow: 1px 1px 1px 1px #DCDCDC;
+    margin:-68px 0 0 45%;
+    border-radius: 2em;
+  }
+  
+  .icons.open {
+    width:80%;
+    margin:-68px 0 0 5%;
+    overflow:hidden;
+  }
+  
+  .icons li {
+    display: none;
+    width:10%;
+    color:#3AB09E;
+  }
+  
+  .icons.open li {
+    width:16%;
+    display: inline-block;
+  }
+  
+  
+
+/* .ui-rotatable-handle {
+    background: url("https://cdn.jsdelivr.net/jquery.ui.rotatable/1.0.1/rotate.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+  }
+  
+  
+  .ui-rotatable-handle-ne {
+    top: -27px;
+    right: -27px;
+  } */
