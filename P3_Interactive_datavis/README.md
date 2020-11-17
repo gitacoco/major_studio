@@ -4,7 +4,7 @@
 ## Questions
 My first project aims to display the extinct birds, but what's gone is gone, we need to pay attention to those still exist, and to protect them. So this project would focus on the Conservation Status of the existing birds.
 
-Revolving around the conservation status, how to reveal the data in multiple dimensions? That is, how to tell a story of the status change over time, how to support comparison among different "threatened" categories, how to geocode each data point and show the relations between "threatened" species and geographical locations, how to display the taxonomy hierarchy of a specific bird, and how to show detailed information for objects just to the good scale. And how to integrate all these tasks into a consistent interface.
+Revolving around the conservation status, how to reveal the data in multiple dimensions? That is, how to tell a story of the status change over time, how to support comparison among different "threatened" categories, how to geocode each data point and show the relations between "threatened" species and geographical locations, how to display the taxonomy hierarchy of a specific bird, and how to show detailed information for objects just to the suitable level or scale. And how to integrate all these tasks into a consistent interface.
 
 ## Design 
 
@@ -78,7 +78,10 @@ Specimen/Lot
   - Most of the specimens are not uploaded to this online database, meaning many recordings are without a pic.
 
 ## Why Interactive
-> Interactivity is crucial for building vis tools that handle complex- ity. When datasets are large enough, the limitations of both people and displays preclude just showing everything at once; interac- tion where user actions cause the view to change is the way for- ward. Moreover, a single static view can show only one aspect of a dataset. For some combinations of simple datasets and tasks, the user may only need to see a single visual encoding. In con- trast, an interactively changing display supports many possible queries.
+In this project, we have multiple tasks and data views, so we need interaction to:
+1. Preclude showing everything at once, supporting investigation at multiple levels of detail;
+2. Support different queries by changing displays, representing the data in different ways for understanding the connections between these alternatives;
+3. Change the view when user actions taken, forming a narrative following the user's reading flow;
 
 ## Visualization Method
 1. Spatio-temporal data visualization
@@ -88,3 +91,4 @@ Specimen/Lot
 ## Reference
 1. D. Park, S. M. Drucker, R. Fernandez and N. Elmqvist, "Atom: A Grammar for Unit Visualizations," in IEEE Transactions on Visualization and Computer Graphics, vol. 24, no. 12, pp. 3032-3043, 1 Dec. 2018, doi: 10.1109/TVCG.2017.2785807.
 2. Heer, Jeffrey, and George Robertson. "Animated transitions in statistical data graphics." IEEE transactions on visualization and computer graphics 13.6 (2007): 1240-1247.
+3. Munzner, Tamara. Visualization analysis and design. CRC press, 2014.
