@@ -14,10 +14,10 @@ Revolving around the conservation status, how to reveal the data in multiple dim
 ### Prototype
 
 ## Datasets
-1. [The IUCN Red List](https://www.iucnredlist.org)
+1. [The IUCN Red List](https://www.iucnredlist.org)  
 The IUCN Red List of Threatened Species is the best known worldwide conservation status listing and ranking system. 
 
-- Data Points
+- Data Points  
 IUCN lists avian species in different Conservation Status. As of December 2019, IUCN lists 225 critically endangered avian species, 461 endangered avian species, 800 vulnerable avian species. 
 
 - Sample Properties 
@@ -55,7 +55,7 @@ IUCN lists avian species in different Conservation Status. As of December 2019, 
 Very good and complete datasets with a long maintenance history.
 
 2. [The NMNH Birds Collection Database](https://collections.nmnh.si.edu/search/birds/)
-- Data Points
+- Data Points  
 The Division of Birds, National Museum of Natural History, Smithsonian Institution, houses and maintains the third largest bird collection in the world with over 625,000 specimens.
 
 - Properties
@@ -75,7 +75,7 @@ Specimen/Lot
 
 - Data Quality
   - Not every bird could be matched in this database. 
-  - Most of the specimens are not uploaded to this online database, meaning many recordings are without a pic.
+  - Most of the specimens are not uploaded to this online database, meaning many recordings are without an accessible picture.
 
 ## Why Interactive
 In this project, we have multiple tasks and data views, so we need interaction to:
