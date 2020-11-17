@@ -58,16 +58,16 @@ Very good and complete datasets with a long maintenance history.
 - Data Points  
 The Division of Birds, National Museum of Natural History, Smithsonian Institution, houses and maintains the third largest bird collection in the world with over 625,000 specimens.
 
-- Properties
+- Sample Properties
 ```CSS
 Specimen/Lot
 {
-  Catalog Number:	USNM 177995
+  Catalog Number: USNM 177995
   Normal Name: Hawaiian Crow
   Scientific Name: Corvus hawaiiensis
   Sex: Male
   Stage: Adult
-  Date Collected:	12 Jun 1899
+  Date Collected: 12 Jun 1899
   Collector(s):	Henshaw, H. W.
   EZID:	http://n2t.net/ark:/65665/347586eff-5a1d-4437-8a91-26de3576fdca
 }
