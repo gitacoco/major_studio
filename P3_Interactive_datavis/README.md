@@ -15,6 +15,7 @@ Revolving around the conservation status, how to reveal the data in multiple dim
 
 ### Prototype
 ![Sketch](./img/default.png)
+![Sketch](./img/bar.png)
 ![Sketch](./img/click.png)
 
 ## Datasets
