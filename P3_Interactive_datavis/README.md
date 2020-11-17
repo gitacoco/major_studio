@@ -4,7 +4,7 @@
 ## Questions
 My first project aims to display the extinct birds, but what's gone is gone, we need to pay attention to those still exist, and to protect them. So this project would focus on the Conservation Status of the existing birds.
 
-Revolving around the conservation status, how to reveal the data in multiple dimensions? That is, how to tell a story of the status change over time, how to support comparison among different "threatened" categories, how to geocode each data point and show the relations between "threatened" species and geographical locations, how to display the taxonomy hierarchy of a specific bird, and how to show detailed information for objects just to the good scale.
+Revolving around the conservation status, how to reveal the data in multiple dimensions? That is, how to tell a story of the status change over time, how to support comparison among different "threatened" categories, how to geocode each data point and show the relations between "threatened" species and geographical locations, how to display the taxonomy hierarchy of a specific bird, and how to show detailed information for objects just to the good scale. And how to 
 
 ## Design 
 
@@ -36,14 +36,7 @@ IUCN lists avian species in different Conservation Status. As of December 2019, 
   Year Last Seen: 2002
   Geographic Range: Polygons (SHP)
   Historical Assessments:{
-          2016 — Extinct in the Wild (EW)
-          2013 — Extinct in the Wild (EW)
-          2012 — Extinct in the Wild (EW)
-          2010 — Extinct in the Wild (EW)
-          2008 — Extinct in the Wild (EW)
           2004 — Extinct in the Wild (EW)
-          2000 — Critically Endangered (CR)
-          1996 — Critically Endangered (CR)
           1994 — Critically Endangered (CR)
           1988 — Threatened (T)
         }
@@ -73,32 +66,3 @@ We could use this database to match the candidates in our list: if NMNH has corr
 
 
 ## Visualization Method
-
-
-
-**Oct 13 Sketch**
-
-![Sketch](./img/sketch.JPG)
-This is a continuation of [project 1](https://github.com/gitacoco/major_studio_1/tree/master/P1_Quantitative_datavis) that brings appearances of extinct birds for people. 
-
-In this project, I am going to bring the voices of the threatened birds as well as few extinct ones' (I am lucky to find some precious songs of the birds extinct in recent years). When we think of multiple pictures we may combine them in canvas, like [Collage Art](https://en.wikipedia.org/wiki/Collage). And normally, people appreciate a painting by watching rather than listening since there is no sound. But if we associate each bird's picture with its songs, we enable people to make up a whole picture with bird voices and make it as a concerto to be heard.
-
-The data visualization and sonification will meet here for people to generate their **data experience**.
-
-### Prototype
-
-**Oct 20 Prototype**
-
-[![Prototype](./img/Player.jpeg)](https://www.youtube.com/watch?v=2HPtaNh0Wno)
-
-## Implementation Process
-
-![Roadmap](./img/roadmap.png)
-
-## Reference
-1. [How Bird Classification Works](http://birding-world.com/bird-classification-works/)
-2. [Drag/Resize/Rotate Javascript](https://github.com/nichollascarter/subjx)
-3. [How to Generate Waveform Images From Audio Files](https://cloudinary.com/blog/how_to_generate_waveform_images_from_audio_files)
-4. [Generating Waveforms using the WordPress REST API](https://www.cedaro.com/blog/generating-waveforms-using-the-wordpress-rest-api/)
-5. [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
-6. [Create a waveform of the full track with Web Audio API](https://stackoverflow.com/questions/22073716/create-a-waveform-of-the-full-track-with-web-audio-api)
