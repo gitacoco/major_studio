@@ -1,5 +1,5 @@
-# Project 2: Visualize Qualitative Data
-## An Growing Whirlpool of Threatened Avian Species
+# Project 3: Interactive Data Visualization
+## A Growing Whirlpool of Threatened Avian Species
 
 ## Questions
 My first project aims to display the extinct birds, but what's gone is gone, we need to pay attention to those still exist, and to protect them. So this project would focus on the Conservation Status of the existing birds.
