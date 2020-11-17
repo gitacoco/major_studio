@@ -14,6 +14,7 @@ Revolving around the conservation status, how to reveal the data in multiple dim
 ![Sketch](./img/sketch.png)
 
 ### Prototype
+![Sketch](./img/default.png)
 
 ## Datasets
 1. [The IUCN Red List](https://www.iucnredlist.org)  
