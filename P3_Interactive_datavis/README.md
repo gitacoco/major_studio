@@ -7,8 +7,10 @@ My first project aims to display the extinct birds, but what's gone is gone, we 
 Revolving around the conservation status, how to reveal the data in multiple dimensions? That is, how to tell a story of the status change over time, how to support comparison among different "threatened" categories, how to geocode each data point and show the relations between "threatened" species and geographical locations, how to display the taxonomy hierarchy of a specific bird, and how to show detailed information for objects just to the suitable level or scale. And how to integrate all these tasks into a consistent interface.
 
 ## Design 
-
 ### Ideation
+![Sketch](./img/ideation.jpg)
+
+### Sketch
 ![Sketch](./img/sketch.png)
 
 ### Prototype
